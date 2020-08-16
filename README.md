@@ -2,4 +2,4 @@ The purpose of this project is practice.
 
 The project contains:
 
-- Basic sorting algorithm.
+- Basic Linear Search Java algorithm.
